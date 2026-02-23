@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Cafe Website",
+        "imagesrc":"../assets/projects/project.jpeg",
+        "description": "Designed and launced a cafe website to enhance customer interaction and experience",
+        "Link":"https://mujammil-cafeshop.web.app"
+    },
+    {
+        "title":"HeartBeatz",
+        "imagesrc":"../assets/projects/HeartBeatz (2).png",
+        "description": "Designed a music app  prototype created using the Figma UI tool.(In progress)",
+        "Link":"https://www.figma.com/proto/FcOLsR4OY6OfwUlB9FggdV/Untitled?"
+    }
+]

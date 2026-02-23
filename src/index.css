@@ -1,0 +1,13 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Outfit",Arial, Helvetica, sans-serif;
+  /* font-family: var(--font-space) */
+  /* background-color: var(--color-bg); */
+}
+
+
+html{
+  scroll-behavior: smooth;
+}
